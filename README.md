@@ -13,7 +13,7 @@ Python 3.6.x or greater.
 ## Usage
 
 1. Create a virtual environment `./make-env.sh`
-2. Activate that environment `source ./activate.sh`
+2. Activate that environment `source ./activate-env.sh`
 3. Install required packages `pip install -r requirements.txt`
 4. Run Jupyter Notebook `jupyter notebook`
 
