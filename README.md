@@ -1,10 +1,6 @@
 # Coinbase Pro Correlation Analysis
 
-The purpose of this project is to run a correlation analysis on the price and volume movements of all trading pairs on Coinbase Pro via the API at: https://api.pro.coinbase.com
-
-## Why?
-
-A correlation analysis can be used as a starting point for creating a diversified trading portfolio, or creating a strategy like mean reversal. This is meant as a starting point for others to build upon. 
+A correlation analysis on the price and volume movements of all trading pairs on Coinbase Pro API. This can be used as a starting point for creating a diversified trading portfolio, or creating a strategy like mean reversal. 
 
 ## Requirements
 
