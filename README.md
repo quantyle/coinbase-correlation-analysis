@@ -13,6 +13,7 @@ Python 3.6.x or greater.
 3. Install required packages `pip install -r requirements.txt`
 4. Run Jupyter Notebook `jupyter notebook`
 
+<img src="download.png" alt="figure" width="700"/>
 
 ## Disclaimer
 I am not responsible in any way for profits or losses made using this code. Use at your own risk.
